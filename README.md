@@ -8,4 +8,8 @@
 - Component Documentation: https://tailwindui.com/components?ref=sidebar
 - Hero Section Documentation (what sir did): https://tailwindui.com/components/marketing/sections/heroes
 
-- if using Vue the, it'll be template, and not html and react.
+- if using Vue then, it'll be template, and not html and react.
+- don't put in school id, address, and so on when making this website.
+
+- on .gitignore, remove the dist-ssr.
+- there will be dist folder(?), i still don't remember what was being said here.
