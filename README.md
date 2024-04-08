@@ -13,3 +13,4 @@
 
 - on .gitignore, remove the dist-ssr.
 - there will be dist folder(?), i still don't remember what was being said here.
+- something about github actions (not yet)
