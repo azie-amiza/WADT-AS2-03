@@ -84,18 +84,22 @@ content: [
 
 ---
 
-### Day 3: April 14, 2024 [4:30pm]
+### Day 3: April 14, 2024 - April 15, 2024 [4:30pm]
 - **Objective: Vue web app contains image of student [6:00am]**
-- *Comments:* For this, there's still trial and error regarding to this, but to add image of your own, just add '<img src>'.
+- *Comments:* For this, there's still trial and error regarding to this, but to add image of your own, just add img src.
+- *Comments:* Till the next day, finally the img is working on it's own. [9:01am]
+- *Comments:* If I put it in the images in assets, it doesn't work, but if I make it on the public, it does work fortunately.
+- *Comments:* And somehow, it's the images are on public now.
 
 - **Objective: Vue web app contains profile information of student [5:00am]**
-- *Comments:* On About Me, I add information about myself, but it still hs a lot of to add more.
+- *Comments:* On About Me, I add information about myself, but it still has a lot of to add more.
 
 ---
 
 ### Day 4: April 15, 2024 [4:30pm]
 - **Objective: Vue web app is responsive: desktop browser and mobile view. [7:02pm]**
 - *Comments:* Right now, still trial and error making the web app responsive.
+- *Comments:* Managed to make the screen responsive by adding 'min-h-screen' on the first div class. [9.03pm]
 
 - **Objective: Web app is optimized through techniques to reduce size of library used. [7:04pm]**
 - *Comments:* Unfortunately, still not yet.
