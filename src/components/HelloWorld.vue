@@ -43,7 +43,7 @@
         <div class="flex justify-center items-center mb-6">
           <img src="/images/myself2.jpg" alt="Azie Amiza" class="w-64 h-auto object-scale-down" />
         </div>
-        <p class="text-lg leading-relaxed">Hello! My name is Azie Amiza-22FTT1497, and I'm currently pursuing a degree in Web Development at Politeknik Brunei. I have a passion for creating beautiful and functional websites, and I'm constantly learning and exploring new technologies in the field of web development. This portfolio showcases some of my projects and assignments, and I hope you enjoy exploring my work!</p>
+        <p class="text-lg leading-relaxed">Hello! My name is Azie Amiza-22FTT1497, and I'm currently pursuing a diploma in Web Development at Politeknik Brunei. I have a passion for creating beautiful and functional websites, and I'm constantly learning and exploring new technologies in the field of web development. This portfolio showcases some of my projects and assignments, and I hope you enjoy exploring my work!</p>
       </div>
     </section>
 
