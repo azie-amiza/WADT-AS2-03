@@ -41,7 +41,7 @@
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 class="text-3xl font-bold mb-6">About Me</h2>
         <div class="flex justify-center items-center mb-6">
-          <img src="/images/myself2.jpg" alt="Azie Amiza" class="w-64 h-auto object-scale-down" />
+          <img src="/images/myself2-optimized.jpg" alt="Azie Amiza" class="w-64 h-auto object-scale-down" />
         </div>
         <p class="text-lg leading-relaxed">Hello! My name is Azie Amiza-22FTT1497, and I'm currently pursuing a diploma in Web Development at Politeknik Brunei. I have a passion for creating beautiful and functional websites, and I'm constantly learning and exploring new technologies in the field of web development. This portfolio showcases some of my projects and assignments, and I hope you enjoy exploring my work!</p>
       </div>
@@ -73,7 +73,6 @@ export default {
 </script>
 
 <style>
-/* This empty style block is required to process Tailwind CSS classes */
 
 /* img{
   width: 10rem;
