@@ -103,7 +103,7 @@ content: [
 - *Comments:* Managed to make the screen responsive by adding 'min-h-screen' on the first div class. [9.03pm]
 
 - **Objective: Web app is optimized through techniques to reduce size of library used. [7:04pm]**
-- *Comments:* Unfortunately, still not yet.
+- *Comments:* For this, I used import on App.vue for optimizing.
 
 ---
 
