@@ -26,6 +26,7 @@
 - [Day 2: April 08, 2024](#day-2-april-08-2024)
 - [Day 3: April 14, 2024](#day-3-april-14-2024)
 - [Day 4: April 15, 2025](#day-4-april-15-2024)
+- [Day 5: April 16, 2025](#day-5-april-16-2024)
 
 ---
 
@@ -103,3 +104,17 @@ content: [
 
 - **Objective: Web app is optimized through techniques to reduce size of library used. [7:04pm]**
 - *Comments:* Unfortunately, still not yet.
+
+---
+
+### Day 5: April 16, 2024 [9:15am]
+- **Objective: Show Vue web app pushed to GitHub with new change [9:30am]**
+- *Comments:* On vite.config.ts, we add 'base: '/WADT-AS2-03'' - the name of the repository.
+- *Comments:* After that, build the vite project with the command, 'npm run build'.
+- *Comments:* Then, it's time to push to gh-pages with the command, 'git add dist -f'.
+- *Comments:* As usual, commit it with the command, 'git commit -m "message"'.
+- *Comments:* Done with that, push it to 'git subtree push --prefix dist origin gh-pages'.
+- *Comments:* Finally, we can check it on the Github Pages and see the site.
+- *Comments:* For me, it was https://azie-amiza.github.io/WADT-AS2-03/ .
+
+---
