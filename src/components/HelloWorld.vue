@@ -29,7 +29,7 @@
 
 
     <!-- header -->
-    <header class="bg-gray-900 h-screen flex items-center justify-center text-white">
+    <header class="bg-gray-900 h-screen flex items-center justify-center text-white px-10">
       <div class="text-center">
         <h1 class="text-5xl font-bold">Hello, I'm Azie Amiza</h1>
         <p class="mt-4 text-lg">Welcome to my website</p>
