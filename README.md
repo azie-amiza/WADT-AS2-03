@@ -85,8 +85,6 @@ content: [
 @tailwind utilities;
 ```
 
----
-
 - *Comments:* Then as usual, we run the website with `npm run dev`.
 
 ---
