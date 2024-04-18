@@ -33,15 +33,17 @@
 ### Day 1: April 01, 2024 [8:30am]
 - **Objective: Vite project installed [8:45am]**
 - *Comments:* To install the Vite, first go to https://vitejs.dev/guide/ for guidance.
-- *Comments:* From there, underneath the topic of 'Scaffolding Your First Vite Project', you can see the installation bash, which is `npm create vite@latest` command.
+- *Comments:* From there, underneath the topic of *Scaffolding Your First Vite Project*, you can see the installation bash, which is `npm create vite@latest` command.
 - *Comments:* With this command, we start the installation using npm. There's actually several type for more faster, but we choose the npm for basic.
 - *Comments:* After installation, there will be shown a project-name, framework and variant.
 
-- Project Name: vitelearning
-- Framework: Vue
-- Variant: Typescript
+```Installation Process
+Project Name: vitelearning
+Framework: Vue
+Variant: Typescript
+```
 
-- *Comments:* After that, we do cd vitelearning to enter the place.
+- *Comments:* After that, we do `cd vitelearning` to enter the place.
 - *Comments:* After we're in, we install again npm with the command, `npm install`.
 
 ---
